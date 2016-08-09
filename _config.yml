@@ -16,5 +16,8 @@ navigation:
   - name: 'Price Guide '
     id: cbf6c276-7d9b-46bd-b67a-2031fae68294
     type: content
+  - name: Team
+    id: ba7be432-4896-48d4-8071-1cfa95a9c7aa
+    type: content
 title: Providing solutions for dental challenges
 description: Understanding and helping is our aim
