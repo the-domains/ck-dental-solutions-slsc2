@@ -1,19 +1,17 @@
 ---
-datePublished: '2016-08-09T08:49:32.173Z'
-isBasedOnUrl: 'http://www.ckdental.co.uk/wp-content/uploads/Porcelain-Veneers.mp4'
+datePublished: '2016-08-09T08:57:16.642Z'
 author: []
 via: {}
-dateModified: '2016-08-09T08:47:41.321Z'
+dateModified: '2016-08-09T08:57:16.005Z'
 title: Cosmetic Dentist Bristol
 publisher: {}
 description: >-
   Cosmetic dentistry in Bristol includes any techniques that restore or improve
   the appearance of your teeth.
 sourcePath: _posts/2016-08-06-cosmetic-dentist-bristol.md
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: cosmetic-dentist-bristol/index.html
 _type: MediaObject
 
 ---
