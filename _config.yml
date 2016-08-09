@@ -34,5 +34,8 @@ navigation:
   - name: GA for Dental Procedures
     id: 0165747f-c796-4d4a-beb5-ab2823a93a3c
     type: content
+  - name: General Dentistry in Bristol
+    id: 3f835dd7-6767-4ba4-864d-9c6eb56e481a
+    type: content
 title: Providing solutions for dental challenges
 description: Understanding and helping is our aim
