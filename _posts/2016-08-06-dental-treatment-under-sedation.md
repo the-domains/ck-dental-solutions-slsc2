@@ -4,18 +4,17 @@ description: >-
   surprisingly high number of patients that visit our Bristol dental practice
   are nervous about undergoing dental procedures, often stemming from a
   childhood experience.
-dateModified: '2016-08-09T08:48:15.030Z'
-datePublished: '2016-08-09T08:49:55.236Z'
+dateModified: '2016-08-09T08:56:55.268Z'
+datePublished: '2016-08-09T08:56:55.802Z'
 title: Dental treatment under Sedation
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-06-dental-treatment-under-sedation.md
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: dental-treatment-under-sedation/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/307b0378-54df-4d23-b23a-24edfea90ed6.jpg)
