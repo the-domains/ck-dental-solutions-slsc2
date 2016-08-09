@@ -12,5 +12,9 @@ color:
     - '#797B9B'
 layout_spectrum: 0.2758424358908087
 name: CK Dental Solutions
+navigation:
+  - name: 'Price Guide '
+    id: cbf6c276-7d9b-46bd-b67a-2031fae68294
+    type: content
 title: Providing solutions for dental challenges
 description: Understanding and helping is our aim
