@@ -1,4 +1,3 @@
-layout_spectrum: 0.2758424358908087
 typography_spectrum: 0.49495118111371994
 color:
   brandStrength: 0.012497064424678683
@@ -11,5 +10,7 @@ color:
     - '#CCC5D7'
     - '#EAE9EF'
     - '#797B9B'
+layout_spectrum: 0.2758424358908087
 name: CK Dental Solutions
 title: Providing solutions for dental challenges
+description: Understanding and helping is our aim
