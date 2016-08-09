@@ -6,9 +6,9 @@ color:
   saturation: 0.3201546741183847
   rhythmicContrast: 0.3335984267760068
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#FFFFFF'
+    - '#ACB9C0'
+    - '#CCC5D7'
+    - '#EAE9EF'
+    - '#797B9B'
 name: CK Dental Solutions
