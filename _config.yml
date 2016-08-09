@@ -19,5 +19,8 @@ navigation:
   - name: Team
     id: ba7be432-4896-48d4-8071-1cfa95a9c7aa
     type: content
+  - name: Dental Implants in Bristol
+    id: 9ffe7bb9-1da7-4d2d-bfce-bffe2fddea48
+    type: content
 title: Providing solutions for dental challenges
 description: Understanding and helping is our aim
