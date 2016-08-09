@@ -31,5 +31,8 @@ navigation:
   - name: Root Canal Treatment
     id: ff6cf017-6bca-4191-965d-d893af2ca9a4
     type: content
+  - name: GA for Dental Procedures
+    id: 0165747f-c796-4d4a-beb5-ab2823a93a3c
+    type: content
 title: Providing solutions for dental challenges
 description: Understanding and helping is our aim
