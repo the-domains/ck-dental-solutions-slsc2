@@ -25,5 +25,8 @@ navigation:
   - name: Dental treatment under Sedation
     id: 17bc26ed-9311-43fe-97a2-afcd9b4c9931
     type: content
+  - name: Cosmetic Dentist Bristol
+    id: 38d4b05c-3c58-4644-9c30-adde36a511aa
+    type: content
 title: Providing solutions for dental challenges
 description: Understanding and helping is our aim
