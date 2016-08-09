@@ -5,18 +5,17 @@ description: >-
   naturally coloured and are almost undetectable. Research has really moved
   forward in this area and we are pleased to provide a real alternative to
   Amalgam fillings at an affordable rate.
-dateModified: '2016-08-09T08:47:58.923Z'
-datePublished: '2016-08-09T08:49:24.586Z'
+dateModified: '2016-08-09T08:57:54.978Z'
+datePublished: '2016-08-09T08:57:55.684Z'
 title: General Dentistry in Bristol
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-06-general-dentistry-in-bristol.md
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: general-dentistry-in-bristol/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93170e7e-2e64-4d5b-8954-2c7799b41e29.png)
