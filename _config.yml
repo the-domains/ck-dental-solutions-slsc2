@@ -1,16 +1,16 @@
-typography_spectrum: 0.04408833780325949
+typography_spectrum: 0.49495118111371994
 color:
-  brandStrength: 0.8198071497026831
-  lightness: 0.8925524319056422
-  saturation: 0.8588906601071358
-  rhythmicContrast: 0.9730880728457123
+  brandStrength: 0.012497064424678683
+  lightness: 0.45615470921620727
+  saturation: 0.3201546741183847
+  rhythmicContrast: 0.3335984267760068
   brandColors:
     - '#FFFFFF'
     - '#ACB9C0'
     - '#CCC5D7'
     - '#EAE9EF'
     - '#797B9B'
-layout_spectrum: 0.03549523535184562
+layout_spectrum: 0.2758424358908087
 name: CK Dental Solutions
 navigation:
   - name: 'Price Guide '
