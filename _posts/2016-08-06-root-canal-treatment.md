@@ -1,17 +1,15 @@
 ---
-datePublished: '2016-08-09T08:49:45.526Z'
-isBasedOnUrl: 'http://www.ckdental.co.uk/wp-content/uploads/root-canal-animation.mp4'
+datePublished: '2016-08-09T08:57:29.783Z'
 author: []
 via: {}
-dateModified: '2016-08-09T08:48:20.215Z'
+dateModified: '2016-08-09T08:57:29.116Z'
 title: Root Canal Treatment
 publisher: {}
 description: What is root canal treatment?
 sourcePath: _posts/2016-08-06-root-canal-treatment.md
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: root-canal-treatment/index.html
 _type: MediaObject
 
 ---
