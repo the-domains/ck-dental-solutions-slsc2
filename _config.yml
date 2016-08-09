@@ -28,5 +28,8 @@ navigation:
   - name: Cosmetic Dentist Bristol
     id: 38d4b05c-3c58-4644-9c30-adde36a511aa
     type: content
+  - name: Root Canal Treatment
+    id: ff6cf017-6bca-4191-965d-d893af2ca9a4
+    type: content
 title: Providing solutions for dental challenges
 description: Understanding and helping is our aim
